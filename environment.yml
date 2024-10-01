@@ -10,5 +10,10 @@ dependencies:
   - matplotlib
   - jupyter
   - pip
+  - timm
+  - scikit-learn
+  - numpy
+  - pytorch
+  - torchvision
   - pip:
     - kaggle
