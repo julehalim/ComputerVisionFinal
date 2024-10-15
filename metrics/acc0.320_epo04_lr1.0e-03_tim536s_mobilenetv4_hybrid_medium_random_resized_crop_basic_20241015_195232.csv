@@ -1,0 +1,6 @@
+epoch,train_loss,valid_loss,accuracy,time,model_name,transform_name,learning_rate,saved_at
+0,2.060865640640259,1.6947283744812012,0.2565104067325592,01:47,mobilenetv4_hybrid_medium,random_resized_crop_basic,0.001,2024-10-15 19:52:32
+1,1.807887315750122,1.6261630058288574,0.2688802182674408,01:47,mobilenetv4_hybrid_medium,random_resized_crop_basic,0.001,2024-10-15 19:52:32
+2,1.6842089891433716,1570.0252685546875,0.2701822817325592,01:48,mobilenetv4_hybrid_medium,random_resized_crop_basic,0.001,2024-10-15 19:52:32
+3,1.6236649751663208,1.5218119621276855,0.3014322817325592,01:47,mobilenetv4_hybrid_medium,random_resized_crop_basic,0.001,2024-10-15 19:52:32
+4,1.5797220468521118,1.513267993927002,0.3203125,01:47,mobilenetv4_hybrid_medium,random_resized_crop_basic,0.001,2024-10-15 19:52:32

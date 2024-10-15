@@ -1,0 +1,2 @@
+epoch,train_loss,valid_loss,accuracy,time,model_name,transform_name,learning_rate,saved_at
+0,1.7837711572647097,1.5443429946899414,0.337890625,02:18,vit_base_patch16_224,none_basic,0.0010000000474974513,2024-10-15 15:28:16
